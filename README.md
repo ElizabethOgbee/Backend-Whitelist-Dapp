@@ -1,13 +1,14 @@
-# Sample Hardhat Project
+# Whitelist Backend Dapp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This Dapp requires users to get whitelisted to Crypto Dev NFT.
 
-Try running some of the following tasks:
+## Languages and Frameworks and tools used:
+- Solidity
+- Ethersjs
+- Metamask
+- Goerli Testnets.
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+
+
+
+
